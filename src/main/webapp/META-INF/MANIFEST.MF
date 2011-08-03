@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: 
+Extension-List: WeblogicSpring
+WeblogicSpring-Extension-Name: weblogic-spring
+WeblogicSpring-Specification-Version: 10.3.4.0
+WeblogicSpring-Implementation-Version: 10.3.4.0
